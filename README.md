@@ -1,31 +1,13 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3>📖 Bingo Card</h3>
+  <h1>📖 Bingo Card</h1>
 </div>
 
 <div align="center">
   <img src="./bingo_card.png" alt="bingo card"/>
 </div>
 
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [:question: FAQ](#faq)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
