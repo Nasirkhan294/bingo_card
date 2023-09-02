@@ -1,3 +1,8 @@
+b_col = (1..15).to_a.sample(5)
+i_col = (16..30).to_a.sample(5)
+n_col = (31..45).to_a.sample(4)
+g_col = (46..60).to_a.sample(5)
+o_col = (61..75).to_a.sample(5)
 
 bingo_card = <<-BINGO
 +---+---+---+---+---+
