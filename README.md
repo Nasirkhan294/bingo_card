@@ -46,7 +46,7 @@ In order to run this project you need:
 2. Clone this repo 
 3. Run bundle install
 ```
-git clone git@github.com:Nasirkhan294/school_library.git
+git clone git@github.com:Nasirkhan294/bingo_card.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
